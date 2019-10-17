@@ -9,8 +9,6 @@ July 15 2008
 * -------------------------------------------------------;
 * -------------------------------------------------------;
 
-* this is a modification of link_permno_ticker;
-
 This macro takes the names history of a company, which provides
 information on the permno and ticker history of each company
 and creates a file that specifies date ranges over which
